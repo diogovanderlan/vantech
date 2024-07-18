@@ -229,35 +229,62 @@
 
       </div>
     </section>
-    <section id="counts" class="counts section-bg">
-      <div class="container-fluid">
-
-        <div class="row counters">
-
-          <div class="col-lg-3 col-6 text-center">
-            <span data-purecounter-start="0" data-purecounter-end="25" data-purecounter-duration="1" class="purecounter"></span>
-            <p>Clientes</p>
-          </div>
-
-          <div class="col-lg-3 col-6 text-center">
-            <span data-purecounter-start="0" data-purecounter-end="92" data-purecounter-duration="1" class="purecounter"></span>
-            <p>Projetos</p>
-          </div>
-
-          <div class="col-lg-3 col-6 text-center">
-            <span data-purecounter-start="0" data-purecounter-end="620" data-purecounter-duration="1" class="purecounter"></span>
-            <p>Horas de suporte</p>
-          </div>
-
-          <div class="col-lg-3 col-6 text-center">
-            <span data-purecounter-start="0" data-purecounter-end="3" data-purecounter-duration="1" class="purecounter"></span>
-            <p>Trabalhadores esforçados</p>
-          </div>
-
+    <!-- Modal gallery -->
+<section class="">
+  <!-- Section: Images -->
+  <section class="">
+    <div class="row">
+      <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
+        <div
+          class="bg-image hover-overlay ripple shadow-1-strong rounded"
+          data-ripple-color="light"
+        >
+          <img
+            src="assets/img/diplomaalfa.jpg"
+            class="w-100"
+          />
+          <a href="https://www.alfaumuarama.edu.br/fau/" data-mdb-modal-init data-mdb-target="#exampleModal1">
+            <div class="mask" style="background-color: rgba(251, 251, 251, 0.2);"></div>
+          </a>
         </div>
-
       </div>
-    </section>
+
+      <div class="col-lg-4 mb-4 mb-lg-0">
+        <div
+          class="bg-image hover-overlay ripple shadow-1-strong rounded"
+          data-ripple-color="light"
+        >
+          <img
+            src="assets/img/webdev.jpg"
+            class="w-100"
+          />
+          <a href="https://www.alfaumuarama.edu.br/fau/graduacao" data-mdb-modal-init data-mdb-target="#exampleModal2">
+            <div class="mask" style="background-color: rgba(251, 251, 251, 0.2);"></div>
+          </a>
+        </div>
+      </div>
+
+      <div class="col-lg-4 mb-4 mb-lg-0">
+        <div
+          class="bg-image hover-overlay ripple shadow-1-strong rounded"
+          data-ripple-color="light"
+        >
+          <img
+            src="assets/img/certificadopython.jpg"
+            class="w-100"
+          />
+          <a href="https://www.hashtagtreinamentos.com/curso-python" data-mdb-modal-init data-mdb-target="#exampleModal3">
+            <div class="mask" style="background-color: rgba(251, 251, 251, 0.2);"></div>
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- Section: Images -->
+
+  
+</section>
+<!-- Modal gallery -->
     <section id="services" class="services">
       <div class="container-fluid">
 
